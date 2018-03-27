@@ -1,0 +1,8 @@
+{
+    "name": "I2LocalizationUtilities",
+    "references": [
+        "I2Localization"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

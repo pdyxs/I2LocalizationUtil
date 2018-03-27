@@ -1,0 +1,11 @@
+{
+    "name": "I2LocalizationUtilitiesEditor",
+    "references": [
+        "I2LocalizationUtilities",
+        "I2Localization"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}
